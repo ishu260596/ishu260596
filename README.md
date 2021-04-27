@@ -19,7 +19,7 @@ Hi there :wave:
 
 
 
-![Ishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishu260596&show_icons=true&theme=chartreuse-dark)
+![Ishwar's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ishu260596&show_icons=true&theme=chartreuse-dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=chartreuse-dark)
