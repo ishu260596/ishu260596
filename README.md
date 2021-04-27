@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there :wave:
 
-<!--
-**ishu260596/ishu260596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  
+<li>:seedling: I’m currently learning Android.</li>
 
-Here are some ideas to get you started:
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me: <a href="www.linkedin.com/in/ishwar-kumar" rel="nofollow">Ishwar Kumar</a></li>
+<li>:smile: Pronouns: He/Him/His</li>
+<li>:zap: Fun fact: I am a secret gamer and bag packer</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>    
+
+---
+
+
+
+![Ishwar GitHub stats](https://github-readme-stats.vercel.app/api?username=ishu26059&show_icons=true&theme=radical)
