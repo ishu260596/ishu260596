@@ -25,4 +25,4 @@ Hi there :wave:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=chartreuse-dark)
 
 
-![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishu260596&theme=jolly)
+![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishu260596&theme=vision-friendly-dark)
