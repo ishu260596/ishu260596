@@ -2,11 +2,11 @@ Hi there :wave:
 
 <ul>
   
-<li>:iphone: Aspiring Android Developer.</li>
+<li>:seedling: I’m currently learning Android.</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow">Ishwar Kumar</a></li>
-<li>:smile: Pronouns: He/Him/His</li>
-<li>:zap: Fun fact: I am very proactive</li>
+<li>:man_standing: Pronouns: He/Him/His</li>
+<li>:man_in_lotus_position: Fun fact: I am very proactive</li>
 </ul>
 
 
