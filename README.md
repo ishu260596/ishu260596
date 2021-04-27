@@ -6,7 +6,7 @@ Hi there :wave:
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow">Ishwar Kumar</a></li>
 <li>:man: Pronouns: He/Him/His</li>
-<li>:man_in_lotus_position: Fun fact: I am very proactive</li>
+<li>:v: Fun fact: I am very proactive</li>
 </ul>
 
 
