@@ -13,7 +13,7 @@ Hi there :wave:
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" alt="Android SDK" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/logo-android.svg" alt="Android SDK" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="GitHub Logo" width="50" height="50"/>    
 
 ---
 
