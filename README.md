@@ -4,7 +4,7 @@ Hi there :wave:
   
 <li>:seedling: I’m currently learning Android.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
- <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="10" height="10"/></a>        <a href="https://twitter.com/IshuDhiman14" rel="nofollow"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619512490~hmac=7d50099ce76badc4a4378b8f2cc377be" alt="Twitter" width="10" height="10"/></a> </li>
+ <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="15" height="15"/></a>        <a href="https://twitter.com/IshuDhiman14" rel="nofollow"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619512490~hmac=7d50099ce76badc4a4378b8f2cc377be" alt="Twitter" width="15" height="15"/></a> </li>
   <li>:man: Pronouns: He/Him/His</li>
 <li>:v: Fun fact: I am very proactive</li>
 </ul>
