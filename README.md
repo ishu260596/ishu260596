@@ -22,11 +22,7 @@ Hi there :wave:
 ![Ishwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishu260596&show_icons=true&theme=radical)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=dracula)
-
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ishu260596)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=chartreuse-dark)
 
 
 ![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishu260596&theme=dracula)
