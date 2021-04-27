@@ -5,7 +5,7 @@ Hi there :wave:
 <li>:seedling: I’m currently learning Android.</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
-  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>
+<li>  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="50" height="50"/> </li>
   
   <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow">Ishwar Kumar</a></li>
 <li>:man: Pronouns: He/Him/His</li>
