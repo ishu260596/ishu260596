@@ -23,8 +23,8 @@ Hi there :wave:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596)]
 
 
 
-![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=nero002&theme=dracula)
+![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishu260596&theme=dracula)
