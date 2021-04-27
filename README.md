@@ -23,7 +23,7 @@ Hi there :wave:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=dracula)
 
 
 
