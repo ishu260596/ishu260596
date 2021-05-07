@@ -12,7 +12,7 @@ Hi there :wave:
 ---
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="42" height="42"/>    <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1619522681~hmac=5d5e83219b0e2125fdbc8db0c3e64b7a" alt="Java Logo" width="50" height="50"/>    <img src="https://www.flaticon.com/svg/vstatic/svg/270/270780.svg?token=exp=1619522768~hmac=955605c15288c541bb927e352538f553" alt="Android SDK" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://www.flaticon.com/svg/vstatic/svg/1265/1265531.svg?token=exp=1619522513~hmac=6f1561e1926404387f2f5740259df5a7" alt="MySQL Logo" width="50" height="50"/>    <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1619522616~hmac=e93074b8f3d8d86785d9e6f34fe51363" alt="GitHub Logo" width="50" height="50"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin logo" width="42" height="42"/>    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java Logo" width="50" height="50"/>    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" alt="Android SDK" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="50" height="50"/>    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL Logo" width="50" height="50"/>    <img src="https://cdn1.iconfinder.com/data/icons/picons-social/57/github-512.png" alt="GitHub Logo" width="50" height="50"/>    
 
 ---
 
