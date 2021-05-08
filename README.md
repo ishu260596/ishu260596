@@ -7,7 +7,7 @@ Hi there :wave:
  <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a>         </li>
   <li>:man: Pronouns: He/Him/His</li>
   Resume:
- <a href="https://drive.google.com/file/d/117HQJ4vpz-gwHKEL6I7QN0xPgttK031-/view?usp=sharing" rel="nofollow"><img src="https://cdn4.iconfinder.com/data/icons/success-filloutline/64/portfolio-business_and_finance-personal_profile-resume-interface-512.png" alt="Resume" width="13" height="13"/>
+ <li>:man: <a href="https://drive.google.com/file/d/117HQJ4vpz-gwHKEL6I7QN0xPgttK031-/view?usp=sharing" rel="nofollow"><img src="https://cdn4.iconfinder.com/data/icons/success-filloutline/64/portfolio-business_and_finance-personal_profile-resume-interface-512.png" alt="Resume" width="13" height="13"/></li>
 </ul>
 
 
