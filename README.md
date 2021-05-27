@@ -6,7 +6,7 @@ Hi folks :wave:
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">:mailbox:</g-emoji> How to reach me:
  <a href="https://www.linkedin.com/in/ishwar-kumar/" rel="nofollow"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="13" height="13"/></a>         </li>
   <li>:man: Pronouns: He/Him/His</li>
- <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1JRCjGrYOuCTjMMdoGWoevCTVcVrRYas1/view?usp=sharing">view</a></li>
+ <li>:receipt: Resume: <a href="https://drive.google.com/file/d/1m_OSmderQxDb_JBWW1FxpgL1ir24zAZT/view?usp=sharing">view</a></li>
   
   <li>:fire: Portfolio: <a href="https://ishu260596.github.io/">visit</a></li>
 </ul>
