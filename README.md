@@ -31,5 +31,5 @@ Hi folks :wave:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=chartreuse-dark)
 
-![Ishwar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishu260596&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
