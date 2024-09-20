@@ -29,8 +29,7 @@ Hi folks :wave:
 
 ![Ishwar's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ishu260596&show_icons=true&theme=chartreuse-dark)
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishu260596&theme=chartreuse-dark)
 
+![Ishwar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishu260596&theme=dracula)
 
-![Ishwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishu260596&theme=dracula)
